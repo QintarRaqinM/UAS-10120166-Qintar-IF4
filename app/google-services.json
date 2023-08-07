@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228709063450",
+    "project_id": "uas-10120166",
+    "storage_bucket": "uas-10120166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228709063450:android:2168c00f680c6b36b7eaa3",
+        "android_client_info": {
+          "package_name": "com.uas.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228709063450-4qcvlivrd2v04h6de8k73404h8efdebt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNLqVhEOboO_3lkQe9CeIc0BLBpZVMAes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228709063450-4qcvlivrd2v04h6de8k73404h8efdebt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
